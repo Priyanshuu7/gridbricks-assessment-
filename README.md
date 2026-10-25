@@ -10,7 +10,7 @@ The platform empowers power procurement trading desks to:
 ---
 
 ##  Deployment & Live Demo
-- **Live Application URL**: `https://xxxxxxxxxxxxxxxxx` *(or your Heroku/Render instance)*
+- **Live Application URL**: `https://gridbricks-assessment-tihr.onrender.com`
 - **API Documentation (Swagger UI)**: `http://localhost:8000/docs`
 - **Video Walkthrough (Unlisted YouTube)**: `[Link to Video Demo]` 
 
